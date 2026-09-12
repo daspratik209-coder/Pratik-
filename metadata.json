@@ -1,0 +1,6 @@
+{
+  "name": "PRATIK AI",
+  "description": "AI-powered algorithmic market intelligence, live option chain analysis, Call/Put signal engine, No-Trade detector, risk management and paper trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
